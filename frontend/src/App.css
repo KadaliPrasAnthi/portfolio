@@ -1,0 +1,16 @@
+
+.app-container{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Arial', sans-serif;   
+    background: transparent;
+    width: 100%;
+    color: white;
+    margin: 0px;
+}
+.section-bar{
+    border: 0;
+    height: 1px;
+    background: rgba(232, 223, 223, 0.1);
+    margin: 40px 0;
+}
